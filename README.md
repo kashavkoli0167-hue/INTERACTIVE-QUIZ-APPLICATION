@@ -72,3 +72,7 @@ FUTURE IMPROVMENTS
   
 The Interactive Quiz Application is a beginner-level yet practical project that successfully demonstrates my understanding of HTML, CSS, and JavaScript fundamentals. It fulfills all the requirements of Task 1 of my internship and serves as a strong foundation for building more advanced web-based applications in the future.
 
+#OUTPUT
+
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/76e097f2-c15c-4de5-8123-2cc0ff3bb255" />
+
