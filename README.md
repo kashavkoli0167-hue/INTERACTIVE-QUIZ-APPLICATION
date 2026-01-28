@@ -27,29 +27,29 @@ The primary objective of this project is to learn and implement core concepts of
 - This project helped me move from basic theory to practical implementation.
 
 TECHNOLOGIES USED
-- HTML5
+- HTML5--
   HTML is used to create the basic structure of the quiz application. It includes elements such as the quiz container, question area, option buttons, feedback text, and navigation buttons.
-- CSS3
+- CSS3--
  CSS is used to style the application and improve user experience. A modern dark theme is applied with smooth transitions, hover effects, and visual indicators for correct and incorrect answers. Button states      such as hover, disabled, and active are carefully handled to make the interface more interactive and user-friendly.
-- JavaScript (Vanilla JS)
+- JavaScript (Vanilla JS)--
  JavaScript is the core of this project. It controls the quiz logic, including loading questions, checking answers, updating the score, showing feedback, and displaying the final result. JavaScript is also used    to enable and disable buttons, control visibility of elements, and restart the quiz without refreshing the page.
 
 FEARURES OF THE APPLICATION
-- Dynamic Question Loading
+- Dynamic Question Loading-
  Questions are stored in a JavaScript array and loaded dynamically one by one.
-- Multiple Choice Options
+- Multiple Choice Options-
  Each question contains four options, and users can select only one answer per question.
-- Instant Feedback
+- Instant Feedback-
  After selecting an option, users immediately see whether their answer is correct or incorrect.
-- Visual Feedback
+- Visual Feedback-
  Correct answers are highlighted in green and incorrect answers in red, improving clarity and user experience.
-- Next Question Navigation
+- Next Question Navigation-
  The "Next" button appears only after an answer is selected, ensuring proper quiz flow.
-- Score Calculation
+- Score Calculation-
  The score is calculated in real time and displayed at the end of the quiz.
-- Restart Quiz Option
+- Restart Quiz Option-
  Users can restart the quiz after completion without reloading the page.
-- Dark Mode UI
+- Dark Mode UI-
  The application uses a dark color theme that looks modern and reduces eye strain.
 
 LEARNING OUTCOMES
