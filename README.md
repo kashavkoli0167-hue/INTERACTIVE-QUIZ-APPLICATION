@@ -12,11 +12,11 @@ DURATION : 4 WEEKS
 
 MENTOR : NEELA SANTOSH
 
-PROJECT DESCRIPTION
+PROJECT DESCRIPTION --
 The Interactive Quiz Application is a web-based project developed using HTML, CSS, and JavaScript as part of Task 1 of my internship. This project focuses on building a simple yet interactive quiz system that allows users to answer multiple-choice questions, receive instant feedback, and view their final score at the end of the quiz. The main purpose of this project is to strengthen my understanding of front-end web development fundamentals and JavaScript logic.
 This application is designed especially for beginners and follows a clean and structured approach. It demonstrates how different web technologies work together to create an engaging user experience. The quiz interface is easy to use, visually appealing, and built with a dark-themed design that is comfortable for users who prefer working in low-light environments.
 
-PROJECT OBJECTIVE
+PROJECT OBJECTIVE --
 The primary objective of this project is to learn and implement core concepts of JavaScript along with HTML and CSS. This includes:
 - Understanding how to structure a web page using HTML
 - Styling the user interface using CSS
@@ -69,7 +69,6 @@ FUTURE IMPROVMENTS
 - Making the application fully responsive for mobile devices
 - Adding more quiz categories
 - Saving high scores using local storage
-
-CONCLUTION
+  
 The Interactive Quiz Application is a beginner-level yet practical project that successfully demonstrates my understanding of HTML, CSS, and JavaScript fundamentals. It fulfills all the requirements of Task 1 of my internship and serves as a strong foundation for building more advanced web-based applications in the future.
 
