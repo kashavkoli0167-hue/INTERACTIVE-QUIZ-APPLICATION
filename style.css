@@ -86,8 +86,9 @@ h1{
 /* responsive */
  @media (max-width:500px){
     .quiz-container{
-        width:80%;
+        width:70%;
     }
  }
+
 
 
